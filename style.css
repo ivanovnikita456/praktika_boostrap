@@ -1,0 +1,91 @@
+.container1 {
+  display: flex;
+  margin-top: 40px;
+
+  justify-content: space-around;
+  
+}
+
+h1 {
+  font-family: "Poppins", sans-serif;
+  width: 600px;
+  font-size: 72px;
+  line-height: 78px;
+}
+h2 {
+  font-family: "Poppins", sans-serif;
+  font-size: 48px;
+  font-weight: 500;
+  line-height: 78px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+p {
+  font-family: "Open Sans", sans-serif;
+}
+.img img {
+  border-top-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+}
+.lozung {
+  width: 500px;
+
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 30px;
+}
+
+div.img {
+  justify-content: space-around;
+  align-items: end;
+
+  position: relative;
+  transform: translate(-30px, -30px);
+}
+.ramka {
+  width: 717px;
+  height: 626px;
+align-items: flex-end;
+  border: 2px solid #b0855b;
+  border-radius: 140px 0px;
+  border-top-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+}
+.lozung_button {
+  width: 150px;
+  height: 45px;
+  line-height: 32px;
+
+  color: #fff;
+  border-top-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background-color: #37806b;
+}
+.header_button {
+  width: 75px;
+  height: 40px;
+  line-height: 32px;
+
+  color: #fff;
+  border-top-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background-color: #b0855b;
+}
+.dot_1 {
+  margin-left: 0px;
+  margin-top: 20px;
+}
+.dot_1 img {
+  border-radius: 0px;
+}
+.navbar-brand img {
+  border-radius: 0px;
+}
+.nav_item {
+  text-align: end;
+}
+.sticky-top{
+  position: sticky;
+} 
